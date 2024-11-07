@@ -51,5 +51,8 @@ Resultado: Mensaje confirmando la actualización del precio.
 Eliminación: Aunque se mencionó una eliminación de un coche específico (car_2), no se implementó en el código original. Se puede agregar usando table.delete().
 Resultado esperado: Confirmación de que el coche ha sido eliminado de la tabla.
 
-Conclusiones
-El código proporciona una forma efectiva de gestionar y analizar datos sobre coches usados en HBase. Las operaciones de carga, consulta, actualización y (potencial) eliminación son fundamentales para el manejo de datos en sistemas NoSQL como HBase, permitiendo a los usuarios realizar análisis y mantener la base de datos actualizada. Si se necesita más información o ejemplos, estaré encantado de ayudar.
+Conclusiones:
+
+El código proporciona una forma efectiva de gestionar y analizar datos sobre coches usados en HBase. Las operaciones de carga, consulta, actualización y (potencial) 
+eliminación son fundamentales para el manejo de datos en sistemas NoSQL como HBase, permitiendo a los usuarios realizar análisis y mantener la base de datos actualizada. 
+Si se necesita más información o ejemplos, estaré encantado de ayudar.
